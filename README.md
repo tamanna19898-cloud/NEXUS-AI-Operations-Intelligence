@@ -192,5 +192,5 @@ When presenting this project to recruiters or technical interviewers, highlight 
 
 ---
 
-**Author:** Anuj Dikshit  
+**Author:** Tamanna Kumari 
 **License:** Apache 2.0
