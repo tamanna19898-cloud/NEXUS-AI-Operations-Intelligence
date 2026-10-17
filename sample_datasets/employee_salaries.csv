@@ -1,0 +1,21 @@
+employee_id,department,job_title,years_experience,education_level,salary,performance_score,remote_ratio,attrition_risk
+EMP001,Engineering,Senior Backend Engineer,7.5,Master,128000,4.8,1.0,Low
+EMP002,Marketing,Content Specialist,3.0,Bachelor,58000,3.9,0.5,Medium
+EMP003,Engineering,DevOps Engineer,5.0,Bachelor,105000,4.5,1.0,Low
+EMP004,Sales,Account Executive,4.5,Bachelor,82000,4.1,0.2,High
+EMP005,HR,Talent Acquisition Lead,6.0,Bachelor,74000,4.3,0.8,Low
+EMP006,Engineering,Staff Architect,12.0,PhD,175000,4.9,1.0,Low
+EMP007,Product,Senior Product Manager,8.0,Master,135000,4.6,0.5,Low
+EMP008,Finance,Senior Financial Analyst,5.5,Master,92000,4.2,0.5,Medium
+EMP009,Customer Support,Support Lead,4.0,Associate,54000,3.8,0.0,High
+EMP010,Engineering,Frontend Engineer,3.5,Bachelor,88000,4.2,0.8,Low
+EMP011,Marketing,Growth Marketing Manager,6.5,Bachelor,98000,4.4,0.5,Medium
+EMP012,Sales,Regional Sales Director,10.0,Master,152000,4.7,0.2,Low
+EMP013,HR,People Operations Partner,3.0,Bachelor,62000,3.9,0.8,Medium
+EMP014,Finance,Accounting Specialist,2.5,Bachelor,56000,3.7,0.2,Medium
+EMP015,Engineering,Data Engineer,6.0,Master,118000,4.5,1.0,Low
+EMP016,Product,Associate PM,2.0,Bachelor,76000,4.0,0.5,Medium
+EMP017,Design,Senior UX Designer,7.0,Bachelor,112000,4.7,1.0,Low
+EMP018,Customer Support,Support Associate,1.5,Associate,46000,3.6,0.0,High
+EMP019,Engineering,QA Automation Engineer,4.5,Bachelor,85000,4.1,0.8,Low
+EMP020,Sales,Sales Development Rep,1.5,Bachelor,52000,3.8,0.2,High

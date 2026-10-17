@@ -1,0 +1,21 @@
+order_id,order_date,customer_region,product_category,unit_price,quantity,discount_pct,shipping_cost,total_revenue,profit_margin_pct,payment_method
+ORD-801,2024-01-15,North America,Electronics,450.00,2,0.05,25.00,880.00,0.22,Credit Card
+ORD-802,2024-01-16,Europe,Apparel,65.00,4,0.10,12.00,246.00,0.35,PayPal
+ORD-803,2024-01-18,Asia-Pacific,Home & Kitchen,120.00,1,0.00,18.00,138.00,0.28,Credit Card
+ORD-804,2024-01-20,North America,Office Supplies,32.00,10,0.15,15.00,287.00,0.18,Bank Transfer
+ORD-805,2024-01-22,Latin America,Electronics,890.00,1,0.00,45.00,935.00,0.26,Credit Card
+ORD-806,2024-01-25,Europe,Footwear,110.00,3,0.10,20.00,317.00,0.31,Credit Card
+ORD-807,2024-01-28,North America,Apparel,45.00,6,0.20,14.00,230.00,0.25,PayPal
+ORD-808,2024-02-02,Asia-Pacific,Electronics,620.00,2,0.05,35.00,1213.00,0.24,Bank Transfer
+ORD-809,2024-02-05,Europe,Home & Kitchen,85.00,2,0.00,16.00,186.00,0.30,Credit Card
+ORD-810,2024-02-09,North America,Electronics,1200.00,1,0.10,50.00,1130.00,0.21,Credit Card
+ORD-811,2024-02-14,Latin America,Apparel,55.00,5,0.15,22.00,255.75,0.32,PayPal
+ORD-812,2024-02-18,Europe,Office Supplies,28.00,12,0.10,18.00,320.40,0.20,Credit Card
+ORD-813,2024-02-22,Asia-Pacific,Footwear,140.00,2,0.00,25.00,305.00,0.33,Credit Card
+ORD-814,2024-02-27,North America,Home & Kitchen,210.00,2,0.05,28.00,427.00,0.27,Credit Card
+ORD-815,2024-03-03,Europe,Electronics,750.00,1,0.05,30.00,742.50,0.23,PayPal
+ORD-816,2024-03-08,North America,Footwear,95.00,4,0.10,20.00,362.00,0.29,Credit Card
+ORD-817,2024-03-12,Asia-Pacific,Apparel,70.00,3,0.00,15.00,225.00,0.34,Bank Transfer
+ORD-818,2024-03-17,Latin America,Office Supplies,40.00,8,0.20,18.00,274.00,0.19,Credit Card
+ORD-819,2024-03-22,North America,Electronics,340.00,3,0.10,40.00,958.00,0.25,Credit Card
+ORD-820,2024-03-28,Europe,Home & Kitchen,160.00,2,0.00,22.00,342.00,0.30,PayPal

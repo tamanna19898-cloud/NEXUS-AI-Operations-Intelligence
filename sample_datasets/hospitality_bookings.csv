@@ -1,0 +1,21 @@
+booking_id,hotel_branch,room_type,lead_time_days,nights_stayed,adults_count,children_count,adr_usd,guest_satisfaction,booking_status
+BK-1001,Seaside Resort,Ocean Suite,42,4,2,1,280.00,4.8,Checked-Out
+BK-1002,Downtown Grand,Deluxe King,12,2,1,0,165.00,4.2,Checked-Out
+BK-1003,Mountain Lodge,Chalet Villa,85,6,3,2,340.00,4.9,Checked-Out
+BK-1004,Seaside Resort,Standard Double,5,1,2,0,135.00,3.6,Checked-Out
+BK-1005,Airport Express,Single Business,1,1,1,0,95.00,4.0,Checked-Out
+BK-1006,Downtown Grand,Executive Suite,30,3,2,0,240.00,4.5,Checked-Out
+BK-1007,Mountain Lodge,Standard Double,14,2,2,0,145.00,4.1,Canceled
+BK-1008,Seaside Resort,Ocean Suite,90,7,2,2,310.00,4.9,Checked-Out
+BK-1009,Airport Express,Single Business,3,1,1,0,90.00,3.8,Checked-Out
+BK-1010,Downtown Grand,Deluxe King,21,3,2,1,185.00,4.3,Checked-Out
+BK-1011,Mountain Lodge,Chalet Villa,60,5,4,2,360.00,4.7,Checked-Out
+BK-1012,Seaside Resort,Deluxe King,18,2,2,0,195.00,4.4,Checked-Out
+BK-1013,Downtown Grand,Standard Double,8,2,1,0,125.00,3.9,Checked-Out
+BK-1014,Airport Express,Single Business,2,1,1,0,95.00,3.5,Canceled
+BK-1015,Mountain Lodge,Deluxe King,25,3,2,0,175.00,4.6,Checked-Out
+BK-1016,Seaside Resort,Ocean Suite,45,4,2,0,295.00,4.8,Checked-Out
+BK-1017,Downtown Grand,Executive Suite,50,4,2,0,250.00,4.7,Checked-Out
+BK-1018,Mountain Lodge,Chalet Villa,110,7,4,1,380.00,5.0,Checked-Out
+BK-1019,Airport Express,Single Business,4,1,1,0,92.00,4.1,Checked-Out
+BK-1020,Seaside Resort,Standard Double,15,3,2,1,140.00,4.0,Checked-Out

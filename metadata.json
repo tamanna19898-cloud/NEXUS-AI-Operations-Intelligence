@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS AI — Smart Data Analytics Platform",
+  "description": "A clean, modular data analytics platform to analyze, visualize, and extract evidence-based insights from CSV and Excel datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

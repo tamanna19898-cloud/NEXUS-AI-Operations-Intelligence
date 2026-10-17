@@ -1,0 +1,29 @@
+season,match_id,team_name,opponent_team,batsman_name,runs_scored,balls_faced,strike_rate,match_winner,player_of_match
+2015,IPL-501,Mumbai Indians,Chennai Super Kings,Rohit Sharma,68,42,161.9,Mumbai Indians,Rohit Sharma
+2015,IPL-502,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,82,50,164.0,Royal Challengers Bangalore,Virat Kohli
+2015,IPL-503,Sunrisers Hyderabad,Kings XI Punjab,David Warner,91,55,165.4,Sunrisers Hyderabad,David Warner
+2015,IPL-504,Chennai Super Kings,Rajasthan Royals,MS Dhoni,53,32,165.6,Chennai Super Kings,MS Dhoni
+2015,IPL-505,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,133,59,225.4,Royal Challengers Bangalore,AB de Villiers
+2015,IPL-506,Sunrisers Hyderabad,Royal Challengers Bangalore,David Warner,74,46,160.8,Sunrisers Hyderabad,David Warner
+2015,IPL-507,Kolkata Knight Riders,Delhi Daredevils,Robin Uthappa,65,48,135.4,Kolkata Knight Riders,Robin Uthappa
+2015,IPL-508,Mumbai Indians,Royal Challengers Bangalore,Kieron Pollard,49,24,204.1,Mumbai Indians,Kieron Pollard
+2015,IPL-509,Chennai Super Kings,Kings XI Punjab,Suresh Raina,62,38,163.1,Chennai Super Kings,Suresh Raina
+2015,IPL-510,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,94,52,180.7,Royal Challengers Bangalore,Virat Kohli
+2015,IPL-511,Sunrisers Hyderabad,Mumbai Indians,David Warner,81,52,155.7,Sunrisers Hyderabad,David Warner
+2015,IPL-512,Mumbai Indians,Chennai Super Kings,Lendl Simmons,68,45,151.1,Mumbai Indians,Rohit Sharma
+2016,IPL-601,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,109,55,198.1,Royal Challengers Bangalore,Virat Kohli
+2016,IPL-602,Sunrisers Hyderabad,Royal Challengers Bangalore,David Warner,93,58,160.3,Sunrisers Hyderabad,David Warner
+2016,IPL-603,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,84,54,155.5,Mumbai Indians,Rohit Sharma
+2016,IPL-604,Royal Challengers Bangalore,Gujarat Lions,AB de Villiers,129,52,248.0,Royal Challengers Bangalore,AB de Villiers
+2016,IPL-605,Kolkata Knight Riders,Sunrisers Hyderabad,Gautam Gambhir,60,45,133.3,Kolkata Knight Riders,Gautam Gambhir
+2017,IPL-701,Mumbai Indians,Rising Pune Supergiant,Rohit Sharma,55,38,144.7,Mumbai Indians,Krunal Pandya
+2017,IPL-702,Sunrisers Hyderabad,Royal Challengers Bangalore,David Warner,86,51,168.6,Sunrisers Hyderabad,David Warner
+2017,IPL-703,Kolkata Knight Riders,Mumbai Indians,Chris Lynn,84,41,204.8,Kolkata Knight Riders,Chris Lynn
+2018,IPL-801,Chennai Super Kings,Sunrisers Hyderabad,Shane Watson,117,57,205.2,Chennai Super Kings,Shane Watson
+2018,IPL-802,Sunrisers Hyderabad,Chennai Super Kings,Kane Williamson,67,44,152.2,Chennai Super Kings,Shane Watson
+2018,IPL-803,Delhi Daredevils,Sunrisers Hyderabad,Rishabh Pant,128,63,203.1,Sunrisers Hyderabad,Shikhar Dhawan
+2019,IPL-901,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,15,8,187.5,Mumbai Indians,Jasprit Bumrah
+2019,IPL-902,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,88,36,244.4,Kolkata Knight Riders,Andre Russell
+2019,IPL-903,Sunrisers Hyderabad,Royal Challengers Bangalore,Jonny Bairstow,114,56,203.5,Sunrisers Hyderabad,Jonny Bairstow
+2020,IPL-1001,Mumbai Indians,Delhi Capitals,Rohit Sharma,68,51,133.3,Mumbai Indians,Trent Boult
+2020,IPL-1002,Kings XI Punjab,Royal Challengers Bangalore,KL Rahul,132,69,191.3,Kings XI Punjab,KL Rahul
